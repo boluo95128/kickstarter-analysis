@@ -7,4 +7,4 @@ In challenge, the exercise is to analyze the outcome based on goals to understan
 ![goals](Outcomes%20Based%20on%20Goals.png)
 
 #Outcomes Based on launch Date
-![date]("Outcomes%20Based%20on%20Launch%20Date.png)
+![date](Outcomes%20Based%20on%20Launch%20Date.png)
